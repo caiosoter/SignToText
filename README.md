@@ -1,7 +1,7 @@
-![](https://upload.wikimedia.org/wikipedia/commons/3/3b/Computer_vision_sample_in_Sim%C3%B3n_Bolivar_Avenue%2C_Quito.jpg)
+![](https://www.libras.com.br/ct__images/artigos/os-5-parametros-da-libras/exemplos-de-ponto-de-articulacao.png)
 
-# MotorFind
-This repository was created to build and share a computer vision project that has the purpose of detecting detect motorcycle license plates.
+# Sign language to text
+This repository was created to build and share a computer vision project that has the purpose of detect sign language and convert to text.
 
 # Data
 
